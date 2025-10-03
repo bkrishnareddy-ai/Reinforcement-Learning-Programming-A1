@@ -108,27 +108,17 @@ $$
 
 ---
 
-## ▶️ How to Run  
 
-Run individual problem scripts:  
 
 ### Problem 1 – MDP Formulation  
-(No code, theoretical design documented in report.)  
 
 ### Problem 2 – Value Iteration (2×2 Gridworld)  
-```bash
-python problem2_value_iteration.py
-```
 
 ### Problem 3 – Value Iteration (5×5 Gridworld)  
-```bash
-python problem3_value_iteration.py
-```
+
 
 ### Problem 4 – Monte Carlo with Importance Sampling  
-```bash
-python problem4_monte_carlo.py
-```
+
 
 ---
 
@@ -141,11 +131,6 @@ python problem4_monte_carlo.py
 
 ---
 
-## 📚 References  
-
-- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction (2nd Edition)*.  
-- David Silver, *Reinforcement Learning Lectures*.  
-- CSCN8020 Course Materials
 
 ---
 
