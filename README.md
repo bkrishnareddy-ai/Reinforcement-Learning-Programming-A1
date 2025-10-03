@@ -109,17 +109,6 @@ $$
 ---
 
 
-
-### Problem 1 – MDP Formulation  
-
-### Problem 2 – Value Iteration (2×2 Gridworld)  
-
-### Problem 3 – Value Iteration (5×5 Gridworld)  
-
-
-### Problem 4 – Monte Carlo with Importance Sampling  
-
-
 ---
 
 ## 📊 Results Summary  
